@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I am Shreyansh Keshav
+- ✨ I'm interested in WebDev and Java.
+- 🌱 I'm currently learning Javascript.
+- 📫 Reach Me On:
+- LinkedIn: linkedin.com/in/shreyansh-keshav-5315381b7/
+- Email: shreykeshav33@gmail.com
 
 <!--
 **ShreyanshKeshav33/ShreyanshKeshav33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
