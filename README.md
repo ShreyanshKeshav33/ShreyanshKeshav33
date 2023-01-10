@@ -1,6 +1,6 @@
 - 👋 Hi, I am Shreyansh Keshav
-- ✨ I'm interested in WebDev and Java.
-- 🌱 I'm currently learning Javascript.
+- ✨ I'm interested in WebDev and Python.
+- 🌱 I'm currently learning Java.
 - 📫 Reach Me On:
 - LinkedIn: linkedin.com/in/shreyansh-keshav-5315381b7/
 - Email: shreykeshav33@gmail.com
