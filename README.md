@@ -1,5 +1,4 @@
 - 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning React-Native.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyansh-keshav-5315381b7/) 
